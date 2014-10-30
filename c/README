@@ -1,0 +1,28 @@
+@Author: 	Jeff Berube
+@ID:		4356171
+@Title:		Reader Write (Assignment #5 - CS3790)
+	
+
+@Description:	Implements a solution to the reader writer problem with reader bias using
+		semaphores.
+
+
+@Compile:	To compile, type 
+
+		make 
+
+		inside program directory.
+
+
+@How to use:	To use, type
+
+		./readwrite
+
+		inside program directory.
+
+
+@Git:		To clone into directory, type
+
+		git clone https://github.com/jeffberube/readwrite.git
+
+		inside directory.
