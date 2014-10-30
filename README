@@ -1,0 +1,14 @@
+@Author:	Jeff Berube
+@Title:		Reader Writer (CS3790 Assignment #2)
+
+@Description:	Solution to the reader writer problem with semaphores.
+
+
+@How to		Read README within respective directories for instructions
+		on how to compile and use.
+
+
+@git		To clone the repo for this project:
+
+		git clone https://github.com/jeffberube/readwrite.git
+
