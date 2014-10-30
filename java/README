@@ -1,0 +1,11 @@
+@Author:	Jeff Berube
+@Title:		ReadWrite (Java)
+
+@Description:	Implements a solution in java to the reader writer problem
+		with reader bias using semaphores.
+
+@Usage		java ReadWrite
+
+@Compiling	javac ReadWrite.java
+
+		Requires Java JDK 7.

@@ -113,6 +113,9 @@ void *writer(void *param) {
 
 int main (int argc, char *argv[]) {
 
+	printf("readwrite started with %d readers and %d writers.\n", NUM_READERS,
+			NUM_WRITERS);
+
 	/* Create reader and writer threads */
 	pthread_t *threads = malloc((NUM_READERS + NUM_WRITERS) * sizeof(pthread_t));
 
